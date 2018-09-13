@@ -1,0 +1,57 @@
+body {
+    font-family: 'Lato', sans-serif;
+    background: #E8A130
+}
+
+header {
+    text-align: center;
+}
+
+header img {
+    margin: .5rem;
+    padding: 1rem
+}
+
+header ul {
+    padding: 0;
+    margin: 0;
+}
+
+header ul li {
+    display: inline-block;
+    margin: 0 .5rem
+}
+
+header ul li a {
+    text-decoration: none;
+    margin: 1rem;
+    font-size: 30px;
+    color: #800000;
+}
+
+header ul li a:hover {
+    color: #B80803
+}
+
+main .tamdeptrai2 {
+    margin: 2rem 10rem;
+}
+
+main .tamdeptrai {
+    background: url('../img/coffee.png');
+    background-size: cover;
+    padding: 2rem 1rem;
+    color: bisque;
+}
+
+main .tamdeptrai h1 {
+    font-size: 40px;
+    text-align: center;
+    text-shadow: 2px 2px #9E6719
+}
+
+main .tamdeptrai p {
+    letter-spacing: .3rem;
+    font-weight: inherit;
+    line-height: 2rem
+}
