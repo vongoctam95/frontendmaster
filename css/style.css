@@ -27,6 +27,7 @@ header ul li a {
     margin: 1rem;
     font-size: 30px;
     color: #800000;
+    transition: 0.5s all ease-in-out;
 }
 
 header ul li a:hover {
